@@ -1,8 +1,8 @@
 class Hdhub4uTui < Formula
-  VERSION = "0.1.9"
-  MACOS_SHA256 = "4d3183eb4f71b1a5bffe335c3f3a03ff72e16887af3d1428afea564e945e2206"
-  LINUX_X64_SHA256 = "63cf072e01acc2b3ff44d50ba4344bbd1faa4aa84d7bf61b6e43ffd7d32eeda6"
-  LINUX_ARM64_SHA256 = "de9eccb0704ae15bbda450fe58cbecde57746af12dd5173a7d67b4f761a82e6a"
+  VERSION = "0.1.10"
+  MACOS_SHA256 = "50f2e23d7f3cf181900740734f8900e036bc106f0d96137afe12e859107d4a13"
+  LINUX_X64_SHA256 = "19b26b9fd5581c5ae49a25159ed164e950f97a596417ea57544530d1796484c1"
+  LINUX_ARM64_SHA256 = "5a8c9ef11a31819b27c2f6c006c7e027442a8f6ebe6dc275ce575c55dae6ddd6"
 
   desc "Terminal client for streaming movies and TV shows from HDHub4u and other sources"
   homepage "https://github.com/ShubhamPP04/hdhub4u-tui"
